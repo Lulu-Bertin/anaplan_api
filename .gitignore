@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files / Other
+__pycache__/
+*.py[cod]
+*$py.class
+apapi.egg-info/
+build/
+dist/
+archived_dist/
+
+# IntelliJ/PyCharm
+.idea
+*.iml
+.python-version
+
+# virtualenv
+venv/
+
+# Common credentials
+*cred*
+*secret*
+*pass*
+
+# Common files that might contain private data
+*.pem
+*.crt
+*.json
+*.csv
+*.zip
+*.xls
+*.xlsx
+*.pdf
+*.log
