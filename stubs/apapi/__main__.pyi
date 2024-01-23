@@ -1,0 +1,3 @@
+from apapi import __description__ as __description__, __version__ as __version__
+
+def main() -> None: ...
